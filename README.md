@@ -1,7 +1,5 @@
 # Design-evaluation-of-a-navigation-app
 
----
-
 ### Project Overview
 
 The goal of this project is to design the myNavigation application using the PACT model. The design process entails a comprehensive analysis of potential users, identification of usage scenarios, and the creation of patterns to guide the application's development. 
