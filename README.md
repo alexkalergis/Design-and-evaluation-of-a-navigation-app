@@ -1,7 +1,40 @@
 # Design-evaluation-of-a-navigation-app
-The purpose of this project is the design of the navigation application myNavigation based on the PACT model. The design process involves analyzing the potential users of the application, identifying usage scenarios, and reproducing patterns upon which the creation of the application will be based. In order to proceed with the design, we were first required to evaluate an existing navigation application (Komoot app) with the help of users. The results we obtained were used to create the best possible version of the application, avoiding any design mistakes we identified. Finally, we proceeded with the design of the myNavigation application and its evaluation compared to the Komoot application.
+Certainly! Here's a refined version of the text for presentation:
 
-The model we utilized during the project is the Hix-Hartson star model. At each stage of the design, we evaluated the results, based on which we designed another part of the application. We repeated this process, returning to each stage until we reached a satisfactory final result.
+---
+
+**Project Overview: myNavigation Application Design**
+
+The objective of this project is to design the myNavigation application using the PACT model. The design process entails a comprehensive analysis of potential users, identification of usage scenarios, and the creation of patterns to guide the application's development. 
+
+### Design Process:
+
+1. **User Analysis and Scenario Identification:**
+   - We began by analyzing the potential users of the application and identifying various usage scenarios. 
+
+2. **Evaluation of Existing Application:**
+   - To inform our design, we evaluated the existing Komoot navigation application with the help of real users. The insights gained from this evaluation helped us identify and avoid potential design flaws.
+
+3. **Application Development:**
+   - Using the feedback from the Komoot app evaluation, we developed the initial version of myNavigation, aiming to incorporate the best practices and avoid identified pitfalls.
+
+### Iterative Design and Evaluation:
+
+We employed the Hix-Hartson star model throughout the project. This iterative process involved:
+
+- **Stage-wise Evaluation:**
+  - At each design stage, we meticulously evaluated the results and made necessary adjustments.
+  
+- **Refinement:**
+  - We continually refined each aspect of the application, returning to previous stages as needed, until we achieved a satisfactory final product.
+
+### Final Outcome:
+
+The iterative process and thorough evaluation allowed us to design a user-centered, efficient, and robust navigation application. The final version of myNavigation was compared against the Komoot app to ensure it met our high standards and addressed user needs effectively.
+
+---
+
+This version is more structured and polished for a presentation.
 
 ## Design
 <img width="15" alt="Main" src="https://github.com/alexkalergis/Design-and-evaluation-of-a-navigation-app/assets/105602973/7be81fe2-8c0f-4966-9224-b0f23244db8e"> https://www.figma.com/design/5RGDWogOr4xTt0BOWMDhYq/myNavigation-Design?node-id=0-1&t=QCkUBiGZE4EehPSo-1
