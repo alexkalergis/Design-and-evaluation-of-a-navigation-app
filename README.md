@@ -9,4 +9,4 @@
   </div>
 
 ## Presentation
-[Project_HCI-Final_ENG.pdf](https://github.com/user-attachments/files/16139962/Project_HCI-Final_ENG.pdf)
+[My Navigation App](https://github.com/user-attachments/files/16139962/Project_HCI-Final_ENG.pdf)
