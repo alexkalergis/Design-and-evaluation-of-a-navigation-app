@@ -6,24 +6,19 @@ The goal of this project is to design the myNavigation application using the PAC
 
 ### Design Process:
 
-1. **User Analysis and Scenario Identification:**
-   - We began by analyzing the potential users of the application and identifying various usage scenarios. 
+- **User Analysis and Scenario Identification:** We began by analyzing the potential users of the application and identifying various usage scenarios. 
 
-2. **Evaluation of Existing Application:**
-   - To inform our design, we evaluated the existing Komoot navigation application with the help of real users. The insights gained from this evaluation helped us identify and avoid potential design flaws.
+- **Evaluation of Existing Application:** To inform our design, we evaluated the existing Komoot navigation application with the help of real users. The insights gained from this evaluation helped us identify and avoid potential design flaws.
 
-3. **Application Development:**
-   - Using the feedback from the Komoot app evaluation, we developed the initial version of myNavigation, aiming to incorporate the best practices and avoid identified pitfalls.
+- **Application Development:** Using the feedback from the Komoot app evaluation, we developed the initial version of myNavigation, aiming to incorporate the best practices and avoid identified pitfalls.
 
 ### Iterative Design and Evaluation:
 
 We employed the Hix-Hartson star model throughout the project. This iterative process involved:
 
-- **Stage-wise Evaluation:**
-  - At each design stage, we meticulously evaluated the results and made necessary adjustments.
+- **Stage-wise Evaluation:** At each design stage, we meticulously evaluated the results and made necessary adjustments.
   
-- **Refinement:**
-  - We continually refined each aspect of the application, returning to previous stages as needed, until we achieved a satisfactory final product.
+- **Refinement:** We continually refined each aspect of the application, returning to previous stages as needed, until we achieved a satisfactory final product.
 
 ### Final Outcome:
 
