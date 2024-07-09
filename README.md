@@ -33,8 +33,6 @@ The iterative process and thorough evaluation allowed us to design a user-center
 
 ---
 
-This version is more structured and polished for a presentation.
-
 ## Design
 <img width="15" alt="Main" src="https://github.com/alexkalergis/Design-and-evaluation-of-a-navigation-app/assets/105602973/7be81fe2-8c0f-4966-9224-b0f23244db8e"> https://www.figma.com/design/5RGDWogOr4xTt0BOWMDhYq/myNavigation-Design?node-id=0-1&t=QCkUBiGZE4EehPSo-1
 
