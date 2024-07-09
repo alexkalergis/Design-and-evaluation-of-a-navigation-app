@@ -8,3 +8,5 @@
   <img width="196" alt="Main" src="https://github.com/alexkalergis/Design-and-evaluation-of-a-navigation-app/assets/105602973/f46a67e0-1315-4f45-8c36-25709621d522">
   </div>
 
+## Presentation
+[Project_HCI-Final_ENG.pdf](https://github.com/user-attachments/files/16139962/Project_HCI-Final_ENG.pdf)
