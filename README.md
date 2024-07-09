@@ -1,5 +1,4 @@
 # Design-evaluation-of-a-navigation-app
-Certainly! Here's a refined version of the text for presentation:
 
 ---
 
